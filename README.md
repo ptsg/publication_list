@@ -6,6 +6,10 @@
 
 ## 2017年度
 
+### 12th International Symposium on Fire Safety Science
+* Yoshikazu Minegishi, Yoshifumi Ohmiya, Tomonori Sano and Manabu Tange: Analysis of high-density evacuation flow ideally and steadily reproduced with experimental loop path, P108, IAFSS 2017.
+* Manabu Tange, Mineko Imanishi, Tomonori Sano and Yoshifumi Ohmiya: Pedestrian Tracking with Two Different Color Labels for Large Scale Evacuation Experiments, P109, IAFSS 2017.
+
 ### 日本建築学会計画系論文集
 * 藤井皓介, 山口純一, 大宮喜文, 丹下学, 城明秀, 佐野 友紀: 広幅員空間における開口幅が開口部の流動性状に与える影響--避難群集の歩行特性と空間形状の関係--, 733, 601, 2017-03
 * 城明秀, 大宮喜文, 佐野友紀, 丹下学, 山口純一, 藤井皓介: 空間条件が群集歩行性状に与える影響に関する実験的研究--群集流に基づく流動係数の変化--, 732, 291, 2017-02.
