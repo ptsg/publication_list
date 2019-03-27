@@ -6,6 +6,10 @@
 
 ## 2017年度
 
+### 日本建築学会大会学術講演梗概集
+* 藤本夏樹，扇谷実沙, 住田沙貴, 坂井慶哉, 大宮喜文, 佐野友紀, 丹下学, 山口純一：群集歩行性状に関する研究 その13 建築条件と流動係数に関する考察
+* 坂井慶哉, 大宮喜文, 佐野友紀, 丹下学, 山口純一：群集歩行性状に関する研究　その 14　前方距離と歩行速度の関係
+
 ### 12th International Symposium on Fire Safety Science
 * Yoshikazu Minegishi, Yoshifumi Ohmiya, Tomonori Sano and Manabu Tange: Analysis of high-density evacuation flow ideally and steadily reproduced with experimental loop path, P108, IAFSS 2017.
 * Manabu Tange, Mineko Imanishi, Tomonori Sano and Yoshifumi Ohmiya: Pedestrian Tracking with Two Different Color Labels for Large Scale Evacuation Experiments, P109, IAFSS 2017.
