@@ -4,6 +4,9 @@
 
 ## 2018年度
 
+### 9th Conference on Pedestrian and Evacuation Dynamics
+* Mineko Imanishi, Tomonori Sano:	Compression of pedestrian crowd in corner turning: Experiment-Based Analysis of Walking Trajectories
+
 ## 2017年度
 
 ### 日本建築学会大会学術講演梗概集
