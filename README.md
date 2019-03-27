@@ -7,6 +7,10 @@
 ### 9th Conference on Pedestrian and Evacuation Dynamics
 * Mineko Imanishi, Tomonori Sano:	Compression of pedestrian crowd in corner turning: Experiment-Based Analysis of Walking Trajectories
 
+### 日本建築学会大会学術講演梗概集
+* 今西美音子, 佐野友紀, 大宮喜文, 丹下学：群集が壁沿いに直角に曲る実験で得た歩行軌跡, 日本建築学会大会学術講演梗概集 (建築計画), pp. 535–536, 2018-09	
+
+
 ## 2017年度
 
 ### 日本建築学会大会学術講演梗概集
@@ -63,3 +67,5 @@
 * OS2-1　群集歩行性状に関する実験的研究 その9 ループ通路を用いた定常的歩行群集流における密度・速度・流動係数の関係（峯岸良和、大宮喜文、佐野友紀、丹下学、山口純一、住田沙貴）
 * OS2-2　群集歩行性状に関する実験的研究 その10 合流のある通路（城明秀、大宮喜文、佐野友紀、丹下学、山口純一、住田沙貴）
 
+### Interflam 2016
+* M. Imanishi, T. Sano, Y. Omiya:	Relationship between Specific Flow and Opening Width Considering Pedestrian Shoulder Twist, Interflam 2016,	2016-07
